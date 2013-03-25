@@ -3,5 +3,6 @@ http://gunnerzxp.github.com/archive.html
 http://gunnerzxp.github.com/pages.html
 http://gunnerzxp.github.com/index.html
 http://gunnerzxp.github.com/tags.html
+http://gunnerzxp.github.com/about.html
 http://gunnerzxp.github.com/sitemap.txt
 http://gunnerzxp.github.com/categories.html
