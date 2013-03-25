@@ -7,5 +7,3 @@ http://username.github.com/atom.xml
 http://username.github.com/rss.xml
 http://username.github.com/sitemap.txt
 http://username.github.com/categories.html
-
-http://username.github.com/lessons/2011/12/29/jekyll-introduction
