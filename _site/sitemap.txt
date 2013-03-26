@@ -6,3 +6,5 @@ http://gunnerzxp.github.com/tags.html
 http://gunnerzxp.github.com/about.html
 http://gunnerzxp.github.com/sitemap.txt
 http://gunnerzxp.github.com/categories.html
+
+http://gunnerzxp.github.com/study/2013/03/26/git-cloning-existing-heroku-applications
