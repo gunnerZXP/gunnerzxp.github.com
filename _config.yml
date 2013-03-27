@@ -74,7 +74,7 @@ JB :
   categories_path : /categories.html
   tags_path : /tags.html
   about_path : /about.xml
-  blog_path : /blog.xml
+ 
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
