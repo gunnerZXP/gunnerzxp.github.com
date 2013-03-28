@@ -40,7 +40,6 @@ tags: [git, heroku]
 >$ heroku git:clone -a your_app  
 
 ####   Then,all things will be okay.
-#### You may just refer to:
-
-  `code`
+#### You may just refer to
+:
 <https://devcenter.heroku.com/articles/git-clone-heroku-app>
