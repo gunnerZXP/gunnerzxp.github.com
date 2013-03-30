@@ -6,7 +6,7 @@ category: study
 tags: [git, heroku]
 ---
 {% include JB/setup %}
-###To clone the source of an existing application from Heroku using Git, you could do followings:
+####To clone the source of an existing application from Heroku using Git, you could do followings:
 -----------------------------------------------------
 #### If you don't install heroku ,please do it first:  
 
