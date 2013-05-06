@@ -7,5 +7,6 @@ http://gunnerzxp.github.com/about.html
 http://gunnerzxp.github.com/sitemap.txt
 http://gunnerzxp.github.com/categories.html
 
+http://gunnerzxp.github.com/soccer/2013/05/04/
 http://gunnerzxp.github.com/Essay/2013/04/06/
 http://gunnerzxp.github.com/study/2013/03/26/git-cloning-existing-heroku-applications
