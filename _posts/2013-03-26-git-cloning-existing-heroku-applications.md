@@ -2,7 +2,7 @@
 layout: post
 title: "Git Cloning Existing Heroku Applications"
 description: ""
-category: study
+category: Study
 tags: [git, heroku]
 ---
 {% include JB/setup %}

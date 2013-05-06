@@ -7,7 +7,7 @@ tagline:
 
 
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:15 %}
     <li>
       <span>
         {{ post.date | date_to_string }}
@@ -21,5 +21,6 @@ tagline:
 </ul>
 
 
+<h5><a href="/archive.html"> >>Read more.</a></h5>
 
 
