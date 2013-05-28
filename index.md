@@ -7,7 +7,7 @@ tagline:
 
 
 <ul class="posts">
-  {% for post in site.posts limit:15 %}
+  {% for post in site.posts limit:12 %}
     <li>
       <span>
         {{ post.date | date_to_string }}

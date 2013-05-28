@@ -1,14 +1,15 @@
 
-http://gunnerzxp.github.com/archive.html
-http://gunnerzxp.github.com/pages.html
-http://gunnerzxp.github.com/index.html
-http://gunnerzxp.github.com/tags.html
-http://gunnerzxp.github.com/about.html
-http://gunnerzxp.github.com/sitemap.txt
-http://gunnerzxp.github.com/categories.html
+http://gunnerzxp.github.io/archive.html
+http://gunnerzxp.github.io/pages.html
+http://gunnerzxp.github.io/index.html
+http://gunnerzxp.github.io/tags.html
+http://gunnerzxp.github.io/about.html
+http://gunnerzxp.github.io/sitemap.txt
+http://gunnerzxp.github.io/categories.html
 
-http://gunnerzxp.github.com/Essay/2013/05/17/
-http://gunnerzxp.github.com/Soccer/2013/05/11/
-http://gunnerzxp.github.com/Soccer/2013/05/04/
-http://gunnerzxp.github.com/Essay/2013/04/06/
-http://gunnerzxp.github.com/Study/2013/03/26/git-cloning-existing-heroku-applications
+http://gunnerzxp.github.io/2013/05/28/
+http://gunnerzxp.github.io/Essay/2013/05/17/
+http://gunnerzxp.github.io/Soccer/2013/05/11/
+http://gunnerzxp.github.io/Soccer/2013/05/04/
+http://gunnerzxp.github.io/Essay/2013/04/06/
+http://gunnerzxp.github.io/Study/2013/03/26/git-cloning-existing-heroku-applications
