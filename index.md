@@ -5,22 +5,18 @@ tagline:
 ---
 {% include JB/setup %}
 
-
 <ul class="posts">
-  {% for post in site.posts limit:12 %}
+  {% for post in site.posts limit:8 %}
     <li>
       <span>
         {{ post.date | date_to_string }}
       </span> 
         &raquo; 
-      <a href="{{ BASE_PATH }}{{ post.url }}">
         {{ post.title }}
-      </a>
     </li>
+         {{ post.content  | | split:'<!--break-->'|first }} 
+      <a href="{{ BASE_PATH }}{{ post.url }}">全文阅读&raquo;</a>
   {% endfor %}
 </ul>
 
-
-<h5><a href="/archive.html"> >>Read more.</a></h5>
-
-
+<a href="archive.html">Read more</a>
