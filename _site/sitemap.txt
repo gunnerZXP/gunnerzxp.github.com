@@ -1,12 +1,13 @@
 
-http://gunnerzxp.github.io/archive.html
-http://gunnerzxp.github.io/pages.html
-http://gunnerzxp.github.io/index.html
-http://gunnerzxp.github.io/tags.html
-http://gunnerzxp.github.io/about.html
 http://gunnerzxp.github.io/sitemap.txt
+http://gunnerzxp.github.io/pages.html
+http://gunnerzxp.github.io/archive.html
+http://gunnerzxp.github.io/about.html
+http://gunnerzxp.github.io/index.html
 http://gunnerzxp.github.io/categories.html
+http://gunnerzxp.github.io/tags.html
 
+http://gunnerzxp.github.io/2013/07/18/
 http://gunnerzxp.github.io/2013/06/01/middleman
 http://gunnerzxp.github.io/2013/05/28/
 http://gunnerzxp.github.io/essay/2013/05/17/

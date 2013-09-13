@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-==========================================
+--------
 Middleman是一个使用各种快捷方式和工具在当下Web开发环境下的静态网站发生器。  
 <div align="center"><img src="http://media.tumblr.com/tumblr_m76dvhusKv1qafhdm.jpg"/></div>  
 ######Middleman有一个官方的扩展以支持博客，文章和标记。
