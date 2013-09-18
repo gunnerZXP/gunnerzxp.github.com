@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Middleman网站新设计"
-description: ""
-category: 
-tags: []
+description: "静态网站速成法"
+category: Study
+tags: [web]
 ---
 {% include JB/setup %}
 

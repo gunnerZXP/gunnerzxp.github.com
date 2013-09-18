@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git Cloning Existing Heroku Applications"
-description: ""
+description: "download heroku project"
 category: Study
 tags: [git, heroku]
 ---
