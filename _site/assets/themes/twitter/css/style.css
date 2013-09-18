@@ -77,3 +77,6 @@ body {
   border-bottom:1px dashed #bbb; 
   margin-bottom:25px;
 }
+#share {
+  float: right;
+}
