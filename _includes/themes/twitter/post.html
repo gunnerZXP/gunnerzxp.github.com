@@ -10,15 +10,7 @@
     <div class="content">
       {{ content }}
     </div>
-
-    <div id="share">
-
-      <script>
-        document.writeln("<div id=\"socialbookmark\"><a href=\"javascript:window.open(\'http:\/\/v.t.sina.com.cn\/share\/share.php?title=\'+encodeURIComponent(document.title.substring(0,76))+\'&url=\'+encodeURIComponent(location.href)+\'&rcontent=\',\'_blank\',\'scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes\'); void 0\" style=\"color:#000000;text-decoration:none;font-size:12px;font-weight:normal\"><SPAN style=\"PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 10px; CURSOR: pointer; PADDING-TOP: 5px\"><IMG alt=转发到新浪微博 src=\"http:\/\/t.sina.com.cn\/favicon.ico\" align=absMiddle border=0>&nbsp;转发到新浪微博<\/SPAN><\/a>");
-        document.writeln("<a href=\"javascript:window.open(\'http://share.renren.com/share/buttonshare.do?title=\'+encodeURIComponent(document.title.substring(0,76))+\'&link=\'+encodeURIComponent(location.href)+\'&content=\',\'_blank\',\'scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes\'); void 0\" style=\"color:#000000;text-decoration:none;font-size:12px;font-weight:normal\"><SPAN style=\"PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 10px; CURSOR: pointer; PADDING-TOP: 5px\"><IMG alt=转帖到人人网 src=\"http:\/\/s.xnimg.cn\/favicon-rr.ico\" align=absMiddle border=0>&nbsp;转帖到人人网<\/SPAN><\/a><\/div>");
-       </script>
-
-    </div>
+    
 
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
@@ -36,6 +28,19 @@
     </ul>
   {% endunless %}  
 
+<!-- JiaThis Button BEGIN -->
+<div class="jiathis_style">
+  <span class="jiathis_txt">分享到：</span>
+  <a class="jiathis_button_qzone"></a>
+  <a class="jiathis_button_tsina"></a>
+  <a class="jiathis_button_tqq"></a>
+  <a class="jiathis_button_renren"></a>
+  <a class="jiathis_button_weixin"></a>
+  <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+  <a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" src="http://v3.jiathis.com/code_mini/jia.js?uid=1374139512152654" charset="utf-8"></script>
+<!-- JiaThis Button END -->
 
   <hr>
 
