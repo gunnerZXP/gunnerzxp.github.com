@@ -77,6 +77,32 @@ body {
   border-bottom:1px dashed #bbb; 
   margin-bottom:25px;
 }
+.share_part{
+  border-width: 2px 0;
+  border-style: solid;
+  border-color: white;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
 .jiathis_style {
   float: right;
+  margin-top: 28px;
+}
+.pagination{
+  margin: 20px 0 15px 0;
+}
+table, th, td{
+  border: 3px solid #005580;
+}
+
+table{
+  border-collapse:collapse;
+ }
+
+td{
+  text-align: center;
+}
+
+th{
+  background-color:#f2eada;
 }

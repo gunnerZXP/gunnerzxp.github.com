@@ -7,6 +7,7 @@ http://gunnerzxp.github.io/index.html
 http://gunnerzxp.github.io/categories.html
 http://gunnerzxp.github.io/tags.html
 
+http://gunnerzxp.github.io/essay/2013/10/01/
 http://gunnerzxp.github.io/essay/2013/07/18/
 http://gunnerzxp.github.io/study/2013/06/01/middleman
 http://gunnerzxp.github.io/essay/2013/05/28/
