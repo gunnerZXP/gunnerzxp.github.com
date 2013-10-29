@@ -73,6 +73,40 @@ footer {
 body {
   background-color:  #F0F0F0;
 }
+body,h1,h2,h3,p,blockquote,dl,dt,dd,ul,ol,li,button,input,textarea 
+{
+  margin: 0; 
+  padding: 0;
+}
+header,footer,article,section,nav,menu 
+{
+  display:block;
+}
+body 
+{
+  font-family:"Hiragino Sans GB","Microsoft Yahei",Tahoma, Helvetica, Arial, "SimSun", sans-serif; 
+  line-height:1.6; 
+}
+h1,h2,h3 {font-weight:400;}
+h1,h2 {font-size:24px;}
+h3 {font-size:14px;}
+img {border:none;}
+a img:hover 
+{
+  background:none; 
+  border:none;
+}
+a {
+  color:#07b; 
+  text-decoration:none;
+}
+.content 
+{
+  overflow:hidden; 
+  color:#555; 
+  text-shadow:1px 1px #fff; 
+  margin-top:30px; 
+  clear:both;}
 .posts section {
   border-bottom:1px dashed #bbb; 
   margin-bottom:25px;
