@@ -15,4 +15,3 @@ http://gunnerzxp.github.io/essay/2013/05/17/
 http://gunnerzxp.github.io/soccer/2013/05/11/
 http://gunnerzxp.github.io/soccer/2013/05/04/
 http://gunnerzxp.github.io/essay/2013/04/06/
-http://gunnerzxp.github.io/study/2013/03/26/git-cloning-existing-heroku-applications
