@@ -77,4 +77,6 @@ $ middleman article TITLE
 
 如果你已经完成了上面的所有步骤，那么恭喜你，你已经完成了一个属于你的简单静态博客网站的创建。继续探索吧，你会得到更多的乐趣。  
 
-Want more Info,you may just refer to:<http://middlemanapp.com/blogging/>  
+Want more Info,you may just refer to:
+
+<http://middlemanapp.com/blogging/>  
